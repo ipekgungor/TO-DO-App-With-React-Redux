@@ -28,15 +28,12 @@ To run this project locally, follow these steps:
    cd TO-DO-App-With-React-Redux
 3. Install Dependencies:
    ```bash
-   npm install
-4. Run the Application:
-   ```bash
-   npm start
-5. Other Packages:
-   ```bash
    npm install react-bootstrap bootstrap
    npm install @mui/material @emotion/react @emotion/styled @mui/icons-material
    npm install redux react-redux
+4. Run the Application:
+   ```bash
+   npm start
 
 ## Contact
 - **Developer:** İpek Güngör
